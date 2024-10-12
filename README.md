@@ -1,7 +1,7 @@
 # µHoubolt CAD
 Space Team's µHoubolt CAD Files, SolidWorks & Step
 
-Now with actually useful STEP files! And FreeCAD .FCStd as an extra
+Now with actually useful STEP files! And FreeCAD .FCStd as an extra.
 Still work in progress!
 
 Extracting parts and assemblies with VariCAD. VariCAD opens the uHoubolt.step without any issue, by a miracle of Dark Sun Gwyndolin or other deity.
